@@ -100,6 +100,7 @@ export default {
         return reg.test(phone);
       },
     },
+  //但是发票
 };
 </script>
 
